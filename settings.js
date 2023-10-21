@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94784506970']
+global.owner = ['201033401721']
 global.premium = ['94784506970']
 global.ownernomer = '94784506970'
 global.ownername = 'Achi Fernando'
